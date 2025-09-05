@@ -41,7 +41,7 @@ export function AddTodo() {
   }
   console.log(list);
   return (
-    <div className="mt-8 p-3 rounded-2xl shadow-lg App-component">
+    <div className="mt-8 p-1 rounded-2xl shadow-lg App-component">
       <input
         className="overflow-hidden focus:outline-none border-2 border-black rounded-l-2xl p-2"
         type="text"
